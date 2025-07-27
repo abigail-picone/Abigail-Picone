@@ -5,8 +5,8 @@
 
  ## 📑 Índice / Table of Contents
 
-- 🇦🇷 [Versión en Español](#-Abigail-Picone)
-- 🇬🇧 [English Version](#-Abigail-Picone-1)
+- 🇦🇷 [Versión en Español](#-Abigail-Picone-1)
+- 🇬🇧 [English Version](#-Abigail-Picone)
 
 ---
 
